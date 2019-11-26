@@ -14,6 +14,7 @@
 	
 		function calcTemp(n1,n2,n3,n4,n5){
 			//alert (" calling....calcTemp");
+			//just changing to test check in 
 			if(n2==1)	  
 			{	if(n3==1)		{	n5= n1;					}
 				else if(n3==2)	{	n5= n1-273.15;			}
